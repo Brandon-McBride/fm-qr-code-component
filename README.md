@@ -25,8 +25,8 @@ Mobile
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Brandon-McBride/fm-qr-code-component)
-- Live Site URL: [Add live site URL here](https://brandon-mcbride.github.io/fm-qr-code-component/)
+- Solution URL: [solution URL](https://github.com/Brandon-McBride/fm-qr-code-component)
+- Live Site URL: [live site URL](https://brandon-mcbride.github.io/fm-qr-code-component/)
 
 ## My process
 
